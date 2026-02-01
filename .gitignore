@@ -1,0 +1,30 @@
+# Java
+**/build/
+**/.gradle/
+**/bin/
+**/*.class
+**/*.jar
+**/*.war
+**/*.ear
+
+# Node
+**/node_modules/
+**/.next/
+**/dist/
+**/*.log
+
+# IDE
+**/.idea/
+**/.vscode/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
